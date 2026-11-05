@@ -1,0 +1,15 @@
+{
+  "repository": "module-accounting-cash-flow-forecasting-nextjs",
+  "capabilityKey": "liberusoftware/module-accounting-cash-flow-forecasting",
+  "presentation": "next-react",
+  "package": "@liberusoftware/module-accounting-cash-flow-forecasting-nextjs",
+  "foundation": "module-boilerplate-nextjs",
+  "foundationCommit": "f36c3c383b38a8ebedb343dffa24cf64bec1817b",
+  "canonicalPlan": "projects/accounting/nextjs/cash-flow-forecasting.md",
+  "presentationPlan": "projects/accounting/nextjs/cash-flow-forecasting.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting"
+  ]
+}
